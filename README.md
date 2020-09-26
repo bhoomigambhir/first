@@ -1,2 +1,2 @@
-# first
+# First
 My first repo
